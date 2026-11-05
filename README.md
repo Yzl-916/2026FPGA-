@@ -6,11 +6,13 @@
 
 ## 演示视频与作品海报
 
-[![FPGA 实时图像处理系统演示预览](media/demo-preview.jpg)](media/demo.mp4)
+[![FPGA 实时图像处理系统演示预览](demo-preview.jpg)](https://github.com/Yzl-916/2026FPGA-/raw/refs/heads/main/demo.mp4)
 
-**[▶ 观看完整演示视频](media/demo.mp4)** · **[查看作品海报合集（PDF，4 页）](docs/project-posters.pdf)**
+**[▶ 观看／下载完整演示视频](https://github.com/Yzl-916/2026FPGA-/raw/refs/heads/main/demo.mp4)** · **[查看作品海报合集（PDF，4 页）](project-posters.pdf)**
 
 点击预览图或视频链接打开约 2 分 58 秒的完整演示。视频保留原音频，提供 720P 版本；PDF 保留全部页面与原始画面。
+
+视频链接指向原始 MP4 文件，浏览器可播放或下载后观看。如果 PDF 在线预览加载较慢，可[直接下载 PDF](https://github.com/Yzl-916/2026FPGA-/raw/refs/heads/main/project-posters.pdf)。
 
 ## 主要功能
 
